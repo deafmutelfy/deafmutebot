@@ -27,3 +27,4 @@
 		- [чм снять](commands/cm/purge.md)
 		- [чм рп](commands/cm/rp.md)
 		- [чм приветствие](commands/cm/greeting.md)
+	- [зр](commands/slowreverb.md)
